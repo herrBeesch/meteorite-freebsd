@@ -1,6 +1,6 @@
 {
   "meteor": {
-    "git": "https://github.com/meteor/meteor.git",
+    "git": "https://github.com/herrBeesch/meteor-freebsd.git",
     "branch": "master",
     "commit": "7510b8430e2f22f8f396e853e0d243238e2bbc53"
   },

@@ -24,7 +24,7 @@ describe('invoking `mrt install`', function() {
           "mrt-test-pkg1",
           "branch: https://github.com/possibilities/mrt-test-pkg1.git#master",
           "Installing Meteor",
-          "branch: https://github.com/meteor/meteor.git#master",
+          "branch: https://github.com/herrBeesch/meteor-freebsd.git#master",
           "Done installing smart packages"
         ]
       }, function() {

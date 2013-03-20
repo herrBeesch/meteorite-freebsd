@@ -23,7 +23,7 @@ describe('invoking `mrt create`', function() {
       mrt.invoke('create app-from-default-meteor', 'new_apps', {
         waitForOutput: [
           'Installing Meteor',
-          'branch: https://github.com/meteor/meteor.git#master',
+          'branch: https://github.com/herrBeesch/meteor-freebsd.git#master',
           'app-from-default-meteor: created'
         ]      
       }, done);
@@ -33,7 +33,7 @@ describe('invoking `mrt create`', function() {
       mrt.invoke('create new-app-with-smart-json', 'new_apps', {
         waitForOutput: [
           'Installing Meteor',
-          'branch: https://github.com/meteor/meteor.git#master',
+          'branch: https://github.com/herrBeesch/meteor-freebsd.git#master',
           'new-app-with-smart-json: created'
         ]
       }, function() {
@@ -50,7 +50,7 @@ describe('invoking `mrt create`', function() {
       mrt.invoke('create --branch devel app-from-non-default-meteor', 'new_apps', {
         waitForOutput: [
           'Installing Meteor',
-          'branch: https://github.com/meteor/meteor.git#devel'
+          'branch: https://github.com/herrBeesch/meteor-freebsd.git#devel'
         ]      
       }, done);
     });
@@ -61,7 +61,7 @@ describe('invoking `mrt create`', function() {
       mrt.invoke('create --example todos', 'new_apps', {
         waitForOutput: [
           'Installing Meteor',
-          'branch: https://github.com/meteor/meteor.git#master',
+          'branch: https://github.com/herrBeesch/meteor-freebsd.git#master',
           'todos: created'
         ]      
       }, done);
