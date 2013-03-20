@@ -1,5 +1,5 @@
 { "name": "meteorite-freebsd"
-, "version": "0.5.2"
+, "version": "0.6.1"
 , "homepage": "http://github.com/herrBeesch/meteorite-freebsd"
 , "engines": [ "node >=0.6.0" ]
 , "description": "Installer & smart package manager for Meteor"
