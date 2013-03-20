@@ -1,6 +1,6 @@
-{ "name": "meteorite"
+{ "name": "meteorite-freebsd"
 , "version": "0.4.9"
-, "homepage": "http://oortcloud.github.com/meteorite"
+, "homepage": "http://github.com/herrBeesch/meteorite-freebsd"
 , "engines": [ "node >=0.6.0" ]
 , "description": "Installer & smart package manager for Meteor"
 , "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)"
@@ -23,7 +23,7 @@
   }
 , "repository":
   { "type" : "git"
-  , "url" : "https://github.com/oortcloud/meteorite.git"
+  , "url" : "https://github.com/herrBeesch/meteorite-freebsd.git"
   }
 , "bin" : { "mrt" : "./bin/mrt.js" }
 }

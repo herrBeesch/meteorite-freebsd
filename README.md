@@ -17,7 +17,7 @@ $ mrt
 Meteorite can be installed via [npm](https://npmjs.org/).
 
 ``` sh
-$ sudo npm install -g meteorite
+$ sudo npm install -g meteorite-freebsd
 ```
 
 ### NOTES
