@@ -3,7 +3,7 @@
 , "homepage": "http://github.com/herrBeesch/meteorite-freebsd"
 , "engines": [ "node >=0.6.0" ]
 , "description": "Installer & smart package manager for Meteor"
-, "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)"
+, "author": "Andi Beuge <andreasbeuge@me.com>, Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)"
 , "dependencies": 
   { "ddp": "=0.2.3"
   , "underscore": ">=1.3.3"
